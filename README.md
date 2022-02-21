@@ -9,7 +9,7 @@ an out-of-the-house activity to do with the kids. I figured, if I could just
 click a button and a random activity would generate for me, that would motivate me
 to grab the keys, get the kids in their carseats, and go do it.
 
-I know several mothers struggle with these same feelings that I do, so I think from a real-world 
+I know several parents struggle with these same feelings that I do, so I think from a real-world 
 perspective this could be a useful application. I plan to keep this in mind as I code through this 
 project and perhaps deploy it for others in the future.
 
