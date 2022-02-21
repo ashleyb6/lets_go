@@ -1,11 +1,3 @@
-# Python application that will generate a random activity to do for the day
-#
-# ====== Inspiration =======
-# I am a stay-at-home mother, some days can be very isolating.
-# There are often days I know I need to get myself and the kids
-# out of the house, but I just don't have the motivation to decide what
-# to do, or I've run out of ideas
-
 from tkinter import *
 from tkinter import messagebox, font
 import random
